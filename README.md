@@ -6,9 +6,9 @@ I am a data science researcher with a background in mathematics, interested in d
 
 ### 🔬 Research Interests
 
-- Trustworthy & Interpretable AI
-- Healthcare & Clinical Prediction
-- Health Data Science
-- Explainable Machine Learning
-- Model Calibration & Reliable Prediction
-- Biomedical & Real-World Health Data
+- 🧠 Trustworthy & Interpretable AI
+- 🏥 Healthcare & Clinical Prediction
+- 📊 Health Data Science
+- 🔍 Explainable Machine Learning
+- 📈 Model Calibration & Reliable Prediction
+- 🧬 Biomedical & Real-World Health Data
