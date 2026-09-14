@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Israel Alabi 👋
 
-<!--
-**israel-alabi1/israel-alabi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Machine Learning Researcher | Trustworthy & Interpretable AI | Healthcare & Clinical Data Science**
 
-Here are some ideas to get you started:
+I am a data science researcher with a background in mathematics, interested in developing **reliable, interpretable, and robust machine learning methods for healthcare and biomedical applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests
+
+- Trustworthy & Interpretable AI
+- Healthcare & Clinical Prediction
+- Health Data Science
+- Explainable Machine Learning
+- Model Calibration & Reliable Prediction
+- Biomedical & Real-World Health Data
